@@ -1,4 +1,5 @@
-module github.com/ksablan/caddy-dreamhost
+module github.com/ksablan/dreamhost-libdns
+replace github.com/libdns/dreamhost => github.com/ksablan/dreamhost-libdns
 
 go 1.18
 
