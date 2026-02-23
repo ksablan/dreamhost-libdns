@@ -1,4 +1,4 @@
-module github.com/ksablan/dreamhost-libdns
+module github.com/ksablan/caddy-dreamhost
 
 go 1.18
 
