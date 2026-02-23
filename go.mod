@@ -1,4 +1,4 @@
-module github.com/libdns/dreamhost
+module github.com/ksablan/dreamhost-libdns
 
 go 1.18
 
