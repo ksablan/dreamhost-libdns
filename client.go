@@ -3,7 +3,7 @@ package dreamhost
 import (
 	"strings"
 
-	"github.com/adamantal/go-dreamhost/api"
+	"github.com/adamantal/go-dreamhost/"
 	"github.com/libdns/libdns"
 )
 
